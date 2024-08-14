@@ -1,0 +1,156 @@
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:22px;
+}
+
+.row-header {
+    PADDING-TOP: 0px;
+    PADDING-BOTTOM: 0px;
+    PADDING-RIGHT: 0.1em;
+    PADDING-LEFT: 0.1em;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 18px;
+    COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-body {
+    PADDING-TOP: 0px;
+    PADDING-BOTTOM: 0px;
+    PADDING-RIGHT: 0.1em;
+    PADDING-LEFT: 0.1em;
+    FONT-SIZE: 15px;
+    COLOR: #000000;
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.text-field {
+    BORDER-RIGHT: darkgray 1px solid;
+    BORDER-TOP: darkgray 1px solid;
+    FONT-SIZE: 15px;
+    BORDER-LEFT: darkgray 1px solid;
+    COLOR: #000000;
+    BORDER-BOTTOM: darkgray 1px solid;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    BACKGROUND-COLOR: #ffffff
+}
+.text-field-full
+{
+    BORDER-RIGHT: darkgray 1px solid;
+    BORDER-TOP: darkgray 1px solid;
+    FONT-SIZE: 15px;
+    BORDER-LEFT: darkgray 1px solid;
+    WIDTH: 100%;
+    COLOR: #000000;
+    BORDER-BOTTOM: darkgray 1px solid;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    BACKGROUND-COLOR: #ffffff
+}
+
+.row-title 
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 15pt;
+    COLOR: #000000;
+    BACKGROUND-COLOR: #ffffff;
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-urgent 
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 15pt;
+    COLOR: #de0a22;
+    BACKGROUND-COLOR: #ffffff;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-clockin 
+{
+    FONT-SIZE: 15pt;
+    COLOR: #000419;
+    BACKGROUND-COLOR: #ffffff;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-clockin-7 
+{
+    FONT-SIZE: 15pt;
+    COLOR: #4c93da;
+    BACKGROUND-COLOR: #ffff01;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-clockin-14
+{
+    FONT-SIZE: 15pt;
+    COLOR: #4c93da;
+    BACKGROUND-COLOR: #ffff01;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-unread 
+{
+    FONT-SIZE: 15pt;
+    COLOR: #0ca867;
+    BACKGROUND-COLOR: #ffffff;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-unread-7 
+{
+    FONT-SIZE: 15pt;
+    COLOR: #0ca867;
+    BACKGROUND-COLOR: #ffff01;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-unread-14
+{
+    FONT-SIZE: 15pt;
+    COLOR: #de0a22;
+    BACKGROUND-COLOR: #ffff01;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
+.row-close
+{
+    FONT-SIZE: 15pt;
+    COLOR: #777777;
+    BACKGROUND-COLOR: #ffffff;
+    BORDER-BOTTOM: darkgray 1px solid;	
+    FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;
+    HEIGHT: 15pt;
+    TEXT-DECORATION: none
+}
